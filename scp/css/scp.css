@@ -2718,7 +2718,7 @@ ul.progress li.no small {color:red;}
     vertical-align: middle;
 }
 
-#loading h1, #upgrading h4 { margin: 3px 0 0 0; padding: 0; color: #d80; }
+#loading h1, #upgrading h4 { margin: 3px 0 0 0; padding: 0; color: #eee; }
 #loading, #upgrading { color: white; }
 
 .non-local-image {

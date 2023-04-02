@@ -180,12 +180,12 @@ i.help-tip:hover {
 #overlay { display: none; position: fixed; background: #000; z-index: 2000; }
 
 #loading { padding: 10px 10px 10px 60px; width: 400px; height: 150px; background: url('../images/ajax-loader.gif?1312925608') 10px 50% no-repeat white; position: fixed; display: none; z-index: 3000; }
-#loading h4 { margin: 3px 0 0 0; padding: 0; color: #d80; }
+#loading h4 { margin: 3px 0 0 0; padding: 0; color: #eee; }
 
 div.flags { text-align: right; margin-top: 5px; }
 a.flag { text-decoration: none; }
 
-.tip { display: inline-block; width: 16px; height: 16px; outline: none; text-decoration: none; color: #d80; margin-left: 5px; }
+.tip { display: inline-block; width: 16px; height: 16px; outline: none; text-decoration: none; color: #eee; margin-left: 5px; }
 .rtl .tip { margin-right: 5px;}
 
 #links { margin: 10px 0; }
